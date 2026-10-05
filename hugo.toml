@@ -1,0 +1,38 @@
+baseURL = "https://jacqueleite.github.io/"
+theme = "hugo-bearblog"
+
+title = "Jacqueline Leite"
+author = "Jacqueline Leite"
+copyright = "© 2026 Jacqueline Leite"
+languageCode = "pt-BR"
+
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv.pdf"
+  weight = 2
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 3
+
+[params]
+  description = "Página pessoal de Jacqueline Leite."
+  title = "Jacqueline Leite"
+  favicon = "images/favicon.png"
+  dateFormat = "02 Jan, 2006"
+
+[markup]
+  [markup.highlight]
+    style = "friendly"
+    lineNos = true
+    codeFences = true
