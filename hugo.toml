@@ -17,7 +17,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [[menu.main]]
   name = "CV"
-  url = "/cv.pdf"
+  url = "/CV.pdf"
   weight = 2
 
 [[menu.main]]
