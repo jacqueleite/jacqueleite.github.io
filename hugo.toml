@@ -11,7 +11,7 @@ disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
 [[menu.main]]
-  name = "Home"
+  name = "home"
   url = "/"
   weight = 1
 
@@ -21,7 +21,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "posts"
   url = "/posts/"
   weight = 3
 
