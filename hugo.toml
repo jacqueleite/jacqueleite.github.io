@@ -1,10 +1,10 @@
 baseURL = "https://jacqueleite.github.io/"
 theme = "hugo-bearblog"
 
-title = "Jacqueline Leite"
-author = "Jacqueline Leite"
-copyright = "© 2026 Jacqueline Leite"
-languageCode = "pt-BR"
+title = "jacqueline leite"
+author = "jacqueline leite"
+copyright = "© 2026 jacqueline leite"
+languageCode = "en-US"
 
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
